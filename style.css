@@ -1,0 +1,36 @@
+#campo{
+    display: none;
+}
+
+#card{
+    background-image: url(./imagens/bordas-do-brasil-bairro-dessaturado-alívio-forma-separada-pela-dessaturação-de-áreas-vizinhas-fronteiras-mapa-relevo-193300952.jpg);
+    height: 300px;
+    text-align: left;
+    width: 550px;
+    justify-content: center;
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 200px;
+    border-radius: 50px;
+    background-size: cover;
+    color:beige;
+    text-shadow: 10px 10px 10px black;
+    
+}
+
+#campo2{
+    justify-content: left;
+    
+}
+
+body{
+    background-image: url(./imagens/631356.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
